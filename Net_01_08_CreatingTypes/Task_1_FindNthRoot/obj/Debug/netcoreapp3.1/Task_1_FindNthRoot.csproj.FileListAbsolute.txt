@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Source\Repos\Net_01_08_CreatingTypes\Task_1_FindNthRoot\bin\Debug\netcoreapp3.1\Task_1_FindNthRoot.exe
+C:\Users\Lenovo\Source\Repos\Net_01_08_CreatingTypes\Task_1_FindNthRoot\bin\Debug\netcoreapp3.1\Task_1_FindNthRoot.deps.json
+C:\Users\Lenovo\Source\Repos\Net_01_08_CreatingTypes\Task_1_FindNthRoot\bin\Debug\netcoreapp3.1\Task_1_FindNthRoot.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\Net_01_08_CreatingTypes\Task_1_FindNthRoot\bin\Debug\netcoreapp3.1\Task_1_FindNthRoot.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\Net_01_08_CreatingTypes\Task_1_FindNthRoot\bin\Debug\netcoreapp3.1\Task_1_FindNthRoot.dll
+C:\Users\Lenovo\Source\Repos\Net_01_08_CreatingTypes\Task_1_FindNthRoot\bin\Debug\netcoreapp3.1\Task_1_FindNthRoot.pdb
+C:\Users\Lenovo\Source\Repos\Net_01_08_CreatingTypes\Task_1_FindNthRoot\obj\Debug\netcoreapp3.1\Task_1_FindNthRoot.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\Net_01_08_CreatingTypes\Task_1_FindNthRoot\obj\Debug\netcoreapp3.1\Task_1_FindNthRoot.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\Net_01_08_CreatingTypes\Task_1_FindNthRoot\obj\Debug\netcoreapp3.1\Task_1_FindNthRoot.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\Net_01_08_CreatingTypes\Task_1_FindNthRoot\obj\Debug\netcoreapp3.1\Task_1_FindNthRoot.dll
+C:\Users\Lenovo\Source\Repos\Net_01_08_CreatingTypes\Task_1_FindNthRoot\obj\Debug\netcoreapp3.1\Task_1_FindNthRoot.pdb
+C:\Users\Lenovo\Source\Repos\Net_01_08_CreatingTypes\Task_1_FindNthRoot\obj\Debug\netcoreapp3.1\Task_1_FindNthRoot.genruntimeconfig.cache
+C:\Users\Lenovo\Source\Repos\Net_01_08_CreatingTypes\Task_1_FindNthRoot\obj\Debug\netcoreapp3.1\Task_1_FindNthRoot.csprojAssemblyReference.cache
